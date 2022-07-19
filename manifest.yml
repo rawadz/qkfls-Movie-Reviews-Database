@@ -2,4 +2,4 @@
 applications:
  - name: movies-reviews-database-rzs
    random-route: false
-   memory: 256M
+   memory: 128M
